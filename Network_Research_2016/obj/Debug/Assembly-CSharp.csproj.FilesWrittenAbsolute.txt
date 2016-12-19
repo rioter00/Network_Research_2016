@@ -1,0 +1,17 @@
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/UnityEngine.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/UnityEditor.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/obj/Debug/Assembly-CSharp.dll
+/Users/nickhwang/Github/Network_Research_2016/Network_Research_2016/obj/Debug/Assembly-CSharp.dll.mdb
